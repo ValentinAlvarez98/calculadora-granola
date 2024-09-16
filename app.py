@@ -4,15 +4,15 @@ from datetime import datetime
 
 # Lista de granolas
 granolas = [
-    "Granola Clásica",
-    "Granola Completa",
-    "Granola Choco",
-    "Granola Completa con Frutas",
-    "Granola Mix Brasil",
-    "Granola Mix Picada",
-    "Granola Mix Especial",
-    "Granola Mix Salado",
-    "Granola Mix Pro"
+    "Clásica",
+    "Completa",
+    "Choco",
+    "Completa con Frutas",
+    "Mix Brasil",
+    "Mix Picada",
+    "Mix Especial",
+    "Mix Salado",
+    "Mix Pro"
 ]
 
 st.title("Calculadora de Precios de Granola")
